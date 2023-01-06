@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "280130064422",
+    "project_id": "rnappz-34c16",
+    "storage_bucket": "rnappz-34c16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280130064422:android:0d0368af0a178046c256e7",
+        "android_client_info": {
+          "package_name": "com.socialapp.blades.blades"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280130064422-td909cc5o8soe0orskcfm5l4cqbfguk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHUzX4EYLvHRXL2DPuF7aw3jwEgxHCTIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280130064422-td909cc5o8soe0orskcfm5l4cqbfguk8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
